@@ -32,3 +32,5 @@
 /solutions.log
 /solutions.out
 /solutions.pdf
+.#*
+_minted
